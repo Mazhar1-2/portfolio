@@ -1,6 +1,7 @@
 title: Mazhar Iqbal # your name (or website title) here
 logo: /images/Picture3.png  # your photo (or logo) here
 description: Physics PhD Student
+show_downloads: true
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
