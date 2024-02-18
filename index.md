@@ -3,14 +3,16 @@
 #### Technical Skills: Python(Numpy, Scipy, Pandas, Matplotlib, sklearn, TensorFlow, Keras), MATLAB, SQL, Excel, Github, Mathematica
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2021 - Present_)								       		
-- M.S., Physics	 | The University of Texas at Dallas (_August 2019 - May 2021_)	 			        		
+- Ph.D., Physics| The University of Texas at Dallas (_May 2021 - Present_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_Aug 2019 - May 2021_)	 			        		
 
 ## Experience
 
 **Graduate Research Student (_Jun 2021 - Present_)**
 - Analyzed Birds and climate data to fit and validate predictive models in Python, achieving a high R2 value of 0.90. These Models predicted the population decline of some bird species across North America
 - Built a Random Forest classification model to estimate the probability of occurrences of certain bird species with a 95% accuracy. The model also predicted bird migration towards northern regions over the past 6 decades.
+- Led data collection, processing, and analysis of novel study on the influence of environmental temperature on bird vocal behavior and diversity. The analysis revealed a Pearson correlation coefficient of 0.79 and p-value < 0.001, indicating statistically significant correlation.
+- Developed a deep convolutional neural network image classifier utilizing MFCC features extracted from birdsongs to accurately classify 27 bird species, achieving an 87% accuracy.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
