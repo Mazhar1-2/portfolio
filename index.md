@@ -10,7 +10,7 @@
 
 **Graduate Research Student (_Jun 2021 - Present_)**
 - Analyzed Birds and climate data to fit and validate predictive models in Python, achieving a high R2 value of 0.90. These Models predicted the population decline of some bird species across North America
-![Estimated Probability Distribution of American Robin](/images/2022AR_distribution.png)
+![Estimated Probability Distribution of American Robin](/images/ARDistribution.png)
 ![Population decline across the USA since 1971](/images/AR_NetProb_Change.png)
 
 - Built a Random Forest classification model to estimate the probability of occurrences of certain bird species with a 95% accuracy. The model also predicted bird migration towards northern regions over the past 5 decades.
