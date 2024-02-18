@@ -1,6 +1,6 @@
 
 
-#### Technical Skills: Python, SQL, MATLAB
+#### Technical Skills: Python(Numpy, Scipy, Pandas, Matplotlib, sklearn, TensorFlow, Keras), MATLAB, SQL, Excel, Github, Mathematica
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2021 - Present_)								       		
@@ -8,9 +8,9 @@
 
 ## Experience
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Graduate Research Student (_Jun 2021 - Present_)**
+- Analyzed Birds and climate data to fit and validate predictive models in Python, achieving a high R2 value of 0.90. These Models predicted the population decline of some bird species across North America
+- Built a Random Forest classification model to estimate the probability of occurrences of certain bird species with a 95% accuracy. The model also predicted bird migration towards northern regions over the past 6 decades.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
