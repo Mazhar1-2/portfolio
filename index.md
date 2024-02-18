@@ -9,7 +9,7 @@
 ## Experience
 
 **Graduate Research Student (_Jun 2021 - Present_)**
-- Analyzed Birds and climate data to fit and validate predictive models in Python, achieving a high R2 value of 0.90. These Models predicted the population decline of some bird species across North America
+- Analyzed Birds and climate data to fit and validate predictive models in Python, achieving a high R2 value of 0.90. These Models predicted the population decline of some bird species across North America.
 <img src="/images/BBB.png?raw=true"/>
 
 
