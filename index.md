@@ -3,8 +3,8 @@
 #### Technical Skills: Python(Numpy, Scipy, Pandas, Matplotlib, sklearn, TensorFlow, Keras), MATLAB, SQL, Excel, Github, Mathematica
 
 ## Education
-- Ph.D., Physics| The University of Texas at Dallas (_May 2021 - Present_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_Aug 2019 - May 2021_)	 			        		
+- Ph.D., Physics   | The University of Texas at Dallas (_May 2021 - Present_)								       		
+- M.S., Physics	   | The University of Texas at Dallas (_Aug 2019 - May 2021_)	 			        		
 
 ## Experience
 
