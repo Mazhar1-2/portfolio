@@ -1,5 +1,5 @@
 # Portfolio
-
+---
 
 #### Technical Skills: Python(Numpy, Scipy, Pandas, Matplotlib, sklearn, TensorFlow, Keras), MATLAB, SQL, Excel, Github, Mathematica
 
