@@ -1,10 +1,11 @@
+# Portfolio
 
 
 #### Technical Skills: Python(Numpy, Scipy, Pandas, Matplotlib, sklearn, TensorFlow, Keras), MATLAB, SQL, Excel, Github, Mathematica
 
 ## Education
-- Ph.D., Physics   | The University of Texas at Dallas (_May 2021 - Present_)								       		
-- M.S., Physics	   | The University of Texas at Dallas (_Aug 2019 - May 2021_)	 			        		
+- Ph.D., Phy   | The University of Texas at Dallas (_May 2021 - Present_)								       		
+- M.S., Phy	   | The University of Texas at Dallas (_Aug 2019 - May 2021_)	 			        		
 
 ## Experience
 
@@ -29,17 +30,16 @@
 - Build Machine Learning Regression Models in Python that can estimate the sun’s position in the sky (Solar Zenith Angle) and ambient temperature from the vocal activity of the top 12 most common birds in the sensor’s surroundings.
 
  <img src="images/Predicting_Zenith_angle.png?raw=true"/> 
-
+### EEG Cognitive States Classification
 - Developed empirical machine learning models that can classify 4 cognitive states based on data from Electroencephalogram (EEG) with 94 input variables using MATLAB. 
 
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Awards
+- Graduate Studies Scholarship, The University of Texas at Dallas, 2019
+- Best Teaching Assitant Award, The University of Texas at Dallas, 2022
+  
+## Talks 
+- EEG Cognitive States Classification - Scientific Classification (PHYS 5315(, Fall 2019
+- Predicting Sun Position (Solar Zenith Angle) from Birds Vocal Behavior - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2023.
 
 
 
