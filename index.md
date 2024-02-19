@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-#### Technical Skills: Python(Numpy, Scipy, Pandas, Matplotlib, sklearn, TensorFlow, Keras), MATLAB, SQL, Excel, Github, Mathematica
+#### Technical Skills: Python, MATLAB, SQL, Excel, Github, Mathematica
 
 ## Education
 - Ph.D., Phy   | The University of Texas at Dallas (_May 2021 - Present_)								       		
