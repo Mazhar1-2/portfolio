@@ -4,8 +4,8 @@
 #### Technical Skills: Python, MATLAB, SQL, Excel, Github, Mathematica
 
 ## Education
-- Ph.D., Phy   | The University of Texas at Dallas (_May 2021 - Present_)								       		
-- M.S., Phy	   | The University of Texas at Dallas (_Aug 2019 - May 2021_)	 			        		
+- Ph.D., Physi   | The University of Texas at Dallas (_May 2021 - Present_)								       		
+- M.S., Physi	   | The University of Texas at Dallas (_Aug 2019 - May 2021_)	 			        		
 
 ## Experience
 
@@ -40,7 +40,7 @@
 - Best Teaching Assitant Award, The University of Texas at Dallas, 2022
   
 ## Talks 
-- EEG Cognitive States Classification - Scientific Classification (PHYS 5315(, Fall 2019
+- EEG Cognitive States Classification - Scientific Computing (PHYS 5315), Fall 2019
 - Predicting Sun Position (Solar Zenith Angle) from Birds Vocal Behavior - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2023.
 
 
