@@ -30,7 +30,8 @@
 - Build Machine Learning Regression Models in Python that can estimate the sun’s position in the sky (Solar Zenith Angle) and ambient temperature from the vocal activity of the top 12 most common birds in the sensor’s surroundings.
 
  <img src="images/Predicting_Zenith_angle.png?raw=true"/> 
-### EEG Cognitive States Classification
+### EEG Cognitive States Classification.
+
 - Developed empirical machine learning models that can classify 4 cognitive states based on data from Electroencephalogram (EEG) with 94 input variables using MATLAB. 
 
 ## Awards
