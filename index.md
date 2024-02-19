@@ -41,7 +41,8 @@
   
 ## Talks 
 - EEG Cognitive States Classification - Scientific Computing (PHYS 5315), Fall 2019
-- Predicting Sun Position (Solar Zenith Angle) from Birds Vocal Behavior - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2023.
+- Predicting Sun Position (Solar Zenith Angle) from Birds Vocal Behavior -
+  Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2023.
 
 
 
