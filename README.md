@@ -1,51 +1,48 @@
-## Developer Portfolio Landing Page Template
+# Portfolio
+---
 
-### Introduction
+#### Technical Skills: Python, MATLAB, SQL, Excel, Github, Mathematica
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## Education
+- Ph.D., Physics| The University of Texas at Dallas (_Aug 2024_)								       		
+- M.S., Physics| The University of Texas at Dallas (_May 2021_)	 			        		
 
-<img src="images/demo.gif?raw=true"/>
+## Experience
 
-### Installation
+**Graduate Research Student (_Jun 2021 - Present_)**
+- Analyzed Birds and climate data to fit and validate predictive models in Python, achieving a high R2 value of 0.90. These Models predicted the population decline of some bird species across North America.
+<img src="images/CCC.png?raw=true"/>
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+- Built a Random Forest classification model to estimate the probability of occurrences of certain bird species with a 95% accuracy. The model also predicted bird migration towards northern regions over the past 5 decades.
+<img src="images/DDD.png?raw=true"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Led data collection, processing, and analysis of novel study on the influence of environmental temperature on bird vocal behavior and diversity. The analysis revealed a Pearson correlation coefficient of 0.79 and p-value < 0.001, indicating statistically significant correlation.
+<img src="images/Thesis_TwoLocation_ADsbs.png?raw=true"/>
+<img src="images/Thesis_TwoLocation_VAsbs.png?raw=true"/>
 
-```markdown
-Syntax highlighted code block
+- Developed a deep convolutional neural network image classifier utilizing MFCC features extracted from birdsongs to accurately classify 27 bird species, achieving an 87% accuracy.
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
+### Predicting Solar Zenith Angle and Ambient Temperature.
+- Build Machine Learning Regression Models in Python that can estimate the sun’s position in the sky (Solar Zenith Angle) and ambient temperature from the vocal activity of the top 12 most common birds in the sensor’s surroundings.
 
-- Bulleted
-- List
+ <img src="images/Predicting_Zenith_angle.png?raw=true"/> 
+ 
+### EEG Cognitive States Classification.
 
-1. Numbered
-2. List
+- Developed empirical machine learning models that can classify 4 cognitive states based on data from Electroencephalogram (EEG) with 94 input variables using MATLAB. 
 
-**Bold** and _Italic_ and `Code` text
+## Awards
+- Graduate Studies Scholarship, The University of Texas at Dallas, 2019
+- Best Teaching Assitant Award, The University of Texas at Dallas, 2022
+  
+## Talks 
+- EEG Cognitive States Classification - Scientific Computing (PHYS 5315), Fall 2019
+- Predicting Sun Position (Solar Zenith Angle) from Birds Vocal Behavior -
+  Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2023.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
