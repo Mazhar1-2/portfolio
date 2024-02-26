@@ -16,6 +16,7 @@
 
 - Built a Random Forest classification model to estimate the probability of occurrences of certain bird species with a 95% accuracy. The model also predicted bird migration towards northern regions over the past 5 decades.
 <img src="images/DDD.png?raw=true"/>
+<img src="images/ROC_CONF.png?raw=true"/>
 
 
 
