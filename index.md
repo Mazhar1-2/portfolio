@@ -16,12 +16,14 @@
 
 - Built a Random Forest classification model to estimate the probability of occurrences of certain bird species with a 95% accuracy. The model also predicted bird migration towards northern regions over the past 5 decades.
 <img src="images/DDD.png?raw=true"/>
+The following evaluation assesses the performance of the model. It correctly classified 3,499 instances of presence and 3,347 instances of absence. However, it misclassified 358 instances of presence and 234 instances of absence. The ROC curve analysis reveals an AUC (Area Under Curve) of 0.97, signaling a high likelihood of 97% for the model to accurately differentiate between the two classes.
 <img src="images/ROC_CONF.png?raw=true"/>
 
 
 
 - Led data collection, processing, and analysis of novel study on the influence of environmental temperature on bird vocal behavior and diversity. The analysis revealed a Pearson correlation coefficient of 0.79 and p-value < 0.001, indicating statistically significant correlation.
 <img src="images/Thesis_TwoLocation_ADsbs.png?raw=true"/>
+The Following is the mode
 <img src="images/Thesis_TwoLocation_VAsbs.png?raw=true"/>
 
 - Developed a deep convolutional neural network image classifier utilizing MFCC features extracted from birdsongs to accurately classify 27 bird species, achieving an 87% accuracy.
