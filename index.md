@@ -10,7 +10,7 @@
 ## Experience
 
 **Graduate Research Student (_Jun 2021 - Present_)**
-- Analyzed Birds and climate data to fit and validate predictive models in Python, achieving a high R2 value of 0.90. These Models predicted the population decline of some bird species across North America.
+- Analyzed Birds and climate data to fit and validate predictive models in Python, achieving a high R2 value of 0.90. These Models predicted the population decline of some bird species across North America. The left figure displays the estimated probability distribution of the American Robin across the United States for the year 2022, as predicted by the model. The figure on the right illustrates the difference in probabilities between the years 2022 and 1971. In this comparison, the red regions highlight areas of negative change, indicating a decline in the population of the American Robin over the past decades.
 <img src="images/CCC.png?raw=true"/>
 
 
