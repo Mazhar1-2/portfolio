@@ -10,11 +10,13 @@
 ## Experience
 
 **Graduate Research Student (_Jun 2021 - Present_)**
-- Analyzed Birds and climate data to fit and validate predictive models in Python, achieving a high R2 value of 0.90. These Models predicted the population decline of some bird species across North America. The left figure displays the estimated probability distribution of the American Robin across the United States for the year 2022, as predicted by the model. The figure on the right illustrates the difference in probabilities between the years 2022 and 1971. In this comparison, the red regions highlight areas of negative change, indicating a decline in the population of the American Robin over the past decades.
+- Analyzed Birds and climate data to fit and validate predictive models in Python, achieving a high R2 value of 0.90. These Models predicted the population decline of some bird species across North America. The figure on the left side displays the estimated probability distribution of the American Robin across the United States for the year 2022, as predicted by the model. The figure on the right side illustrates the difference in probabilities between the years 2022 and 1971. In this comparison, the red regions highlight areas of negative change, indicating a decline in the population of the American Robin over the past decades.
 <img src="images/CCC.png?raw=true"/>
 
 
 - Built a Random Forest classification model to estimate the probability of occurrences of certain bird species with a 95% accuracy. The model also predicted bird migration towards northern regions over the past 5 decades.
+  Below are the figures depicting the probability distributions (Year 2022) and changes in probabilities from 1971 to 2022 for the Carolina Chickadee. The figure on the right illustrates a decrease in the probability of Carolina Chickadee presence in lower latitudes over the past decades (Red regions), alongside an increase in higher latitudes (Blue regions). This suggests a trend of movement towards northern regions and colder climates over time.
+  
 <img src="images/DDD.png?raw=true"/>
 The following evaluation assesses the performance of the model. It correctly classified 3,499 instances of presence and 3,347 instances of absence. However, it misclassified 358 instances of presence and 234 instances of absence. The ROC curve analysis reveals an AUC (Area Under Curve) of 0.97, signaling a high likelihood of 97% for the model to accurately differentiate between the two classes.
 <img src="images/ROC_CONF.png?raw=true"/>
