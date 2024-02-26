@@ -14,7 +14,7 @@
 <img src="images/CCC.png?raw=true"/>
 
 
-- Built a Random Forest classification model to estimate the probability of occurrences of certain bird species with a 95% accuracy. The model also predicted bird migration towards northern regions over the past 5 decades.
+- Built a Random Forest classification model to estimate the probability of occurrences of certain bird species with a 93% accuracy and AUC of 0.97. The model also predicted bird migration towards northern regions over the past 5 decades.
   Below are the figures depicting the probability distributions (Year 2022) and changes in probabilities from 1971 to 2022 for the Carolina Chickadee. The figure on the right illustrates a decrease in the probability of Carolina Chickadee presence in lower latitudes over the past decades (Red regions), alongside an increase in higher latitudes (Blue regions). This suggests a trend of movement towards northern regions and colder climates over time.
   
 <img src="images/DDD.png?raw=true"/>
