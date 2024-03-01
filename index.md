@@ -24,6 +24,7 @@ The following evaluation assesses the performance of the model. It correctly cla
 
 
 - Led data collection, processing, and analysis of novel study on the influence of environmental temperature on bird vocal behavior and diversity. The analysis revealed a Pearson correlation coefficient of 0.79 and p-value < 0.001, indicating statistically significant correlation.
+  
 <img src="images/Thesis_TwoLocation_ADsbs.png?raw=true"/>
 
 <img src="images/Thesis_TwoLocation_VAsbs.png?raw=true"/>
